@@ -1,5 +1,7 @@
 # PsiTransfer on Railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/psitransfer?utm_medium=integration&utm_source=button&utm_campaign=psitransfer)
+
 A Railway template for [PsiTransfer](https://github.com/psi-4ward/psitransfer), a simple self-hosted file sharing app (an open-source alternative to WeTransfer): no accounts, resumable uploads and downloads of large files, expiry times, one-time downloads, password-protected buckets and zip/tar.gz download of a whole bucket.
 
 ## What it deploys
